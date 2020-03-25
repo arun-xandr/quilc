@@ -111,6 +111,7 @@
                              (:file "initial-rewiring")
                              (:file "logical-schedule")
                              (:file "outgoing-schedule")
+                             (:file "addresser-state")
                              (:file "addresser-common")
                              (:file "astar-rewiring-search")
                              (:file "path-heuristic")
